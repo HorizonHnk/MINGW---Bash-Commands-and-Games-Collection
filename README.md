@@ -1,4 +1,4 @@
-# Bash Commands and Games Collection
+# Bash Commands and Games Collection - MINGW
 
 A collection of essential bash commands and interactive command-line games.
 
